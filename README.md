@@ -21,7 +21,7 @@ IDE/Platform:	Jupyter Notebook, Power BI Desktop
 📁 Files Included
 File Name	Description:
 >> netflix analysis project.py:-	Python script for cleaning, transforming, and exploring data/
-link: https: //github.com/kimshix0x0/Netflix-analysis-project/blob/main/netflix%20analysis%20project.py
+link: https://github.com/kimshix0x0/Netflix-analysis-project/blob/main/netflix%20analysis%20project.py
 >> netflix dashboard.pbix:-	Interactive Power BI dashboard with slicers and KPIs.
 link: https://github.com/kimshix0x0/Netflix-analysis-project/blob/main/Screenshot%202025-07-11%20161400.png 
 

@@ -1,4 +1,5 @@
-📊 Netflix Analysis & Dashboard Project
+# Netflix Analysis & Dashboard Project
+
 🔍 Overview:
 This project is a data analysis and visualization dashboard based on Netflix's movie data. The goal was to explore trends, genres, popularity, 
 and viewer sentiment across thousands of movies using Python for data preprocessing and Power BI for dashboard creation.
